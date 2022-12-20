@@ -45,3 +45,10 @@ li a:hover {
     padding: 10px;
     text-align: center;
 }
+
+.grid2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    text-align: center;
+}

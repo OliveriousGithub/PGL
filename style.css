@@ -94,7 +94,7 @@ li a:hover {
     position: absolute;
     top: 40%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-10%, -10%);
 }
 
 .MostPopularSubHeader{
@@ -102,7 +102,7 @@ li a:hover {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-10%, -10%);
 }
 
 .LatestContainer{
@@ -116,13 +116,13 @@ li a:hover {
     position: absolute;
     top: 40%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-10%, -10%);
 }
 
-.LatestHeader{
+.LatestSubHeader{
     font-size: 60px;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-10%, -10%);
 }

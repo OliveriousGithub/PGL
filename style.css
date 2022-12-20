@@ -67,7 +67,7 @@ li a:hover {
 }
 
 .HomeHeader1{
-    font-size:75px;
+    font-size:100px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -75,9 +75,9 @@ li a:hover {
 }
 
 .HomeSubHeader1{
-    font-size:50px;
+    font-size:75px;
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
-    transform: translate(-50%, 50%);
+    transform: translate(-50%, -50%);
 }

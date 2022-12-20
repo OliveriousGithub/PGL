@@ -60,6 +60,12 @@ li a:hover {
     text-align: center;
 }
 
+.HomeImageContainer{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
 .HomeHeader1{
     
 }

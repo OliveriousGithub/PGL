@@ -90,7 +90,7 @@ li a:hover {
 }
 
 .MostPopularHeader{
-    font-size:100px;
+    font-size:10px;
     position: absolute;
     top: 40%;
     left: 50%;
@@ -98,7 +98,7 @@ li a:hover {
 }
 
 .MostPopularSubHeader{
-    font-size: 60px;
+    font-size: 6px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -112,7 +112,7 @@ li a:hover {
 }
 
 .LatestHeader{
-    font-size:100px;
+    font-size:10px;
     position: absolute;
     top: 40%;
     left: 50%;
@@ -120,7 +120,7 @@ li a:hover {
 }
 
 .LatestSubHeader{
-    font-size: 60px;
+    font-size: 6px;
     position: absolute;
     top: 50%;
     left: 50%;

@@ -82,3 +82,47 @@ li a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.MostPopularContainer{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.MostPopularHeader{
+    font-size:100px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.MostPopularSubHeader{
+    font-size: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.LatestContainer{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.LatestHeader{
+    font-size:100px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.LatestHeader{
+    font-size: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

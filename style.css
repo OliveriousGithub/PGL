@@ -112,17 +112,17 @@ li a:hover {
 }
 
 .LatestHeader{
-    font-size:10px;
+    font-size:20px;
     position: absolute;
-    top: 40%;
-    left: 50%;
+    top: 50%;
+    left: 40%;
     transform: translate(-10%, -10%);
 }
 
 .LatestSubHeader{
-    font-size: 6px;
+    font-size: 12px;
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 60%;
+    left: 40%;
     transform: translate(-10%, -10%);
 }

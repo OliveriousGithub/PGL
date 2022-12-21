@@ -140,6 +140,10 @@ li a:hover {
     align-items: center;
 }
 
+.image-header, .image-subheader {
+    text-align: center;
+  }
+
 .about{
     color: white;
 }

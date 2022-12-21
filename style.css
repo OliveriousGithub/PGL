@@ -141,7 +141,8 @@ li a:hover {
 }
 
 .image-header, .image-subheader {
-    text-align: center;
+    display: block;
+    margin: auto;
   }
 
 .about{

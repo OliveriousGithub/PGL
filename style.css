@@ -129,7 +129,7 @@ li a:hover {
     transform: translate(-50%, -50%);
 }
 
-.container {
+.containerhome {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -163,6 +163,13 @@ li a:hover {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+}
+
+.FortniteHome:hover{
+  transform: scale(3);
+}
+.LilGatorGameHome:hover{
+  transform: scale(3);
 }
 
 footer {

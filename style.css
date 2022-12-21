@@ -136,26 +136,10 @@ li a:hover {
   height: 80vh;
 }
 
-.images-container {
-  display: flex;
-}
-
 .image-container {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.image-header {
-  color: white;
-}
-
-.image-subheader {
-  color: lightgrey;
-}
-
-.about{
-    color: white;
 }
 
 .image-header, .image-subheader {

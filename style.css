@@ -79,22 +79,6 @@ li a:hover {
     text-align: center;
 }
 
-.grid{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  padding: 10px;
-  background-color: rgb(226, 156, 98);;
-  text-align: center;
-}
-
-.grid2{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  padding: 10px;
-  background-color: rgb(226, 156, 98);;
-  text-align: center;
-}
-
 .fortnite{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -146,16 +130,17 @@ li a:hover {
 }
 
 .LatestPopContainer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 80vh;
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
   
 .PopLatestImage-container {
-    display: block;
-    width: 300px;
-    height: 300px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 
 .image-header, .image-subheader {
@@ -163,26 +148,18 @@ li a:hover {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    display: block;
     text-align: center;
   }
 
-.image-header {
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  .image-header {
+    text-align: center;
     color: white;
-    padding: 20px 0;
   }
 
-.image-subheader {
-    position: absolute;
-    top: 65%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  .image-subheader {
+    margin-top: 18px;
+    text-align: center;
     color: lightgrey;
-    padding: 10px 0;
   }
 
 .about{

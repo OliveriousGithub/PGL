@@ -156,12 +156,12 @@ li a:hover {
     width: 500px;
   }
 
-  .image-header {
+.image-header {
     text-align: center;
     color: white;
   }
 
-  .image-subheader {
+.image-subheader {
     margin-top: 18px;
     text-align: center;
     color: lightgrey;

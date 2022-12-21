@@ -144,7 +144,7 @@ li a:hover {
 .MostPopularSubHeader{
     font-size: 6px;
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 50%;
     transform: translate(-10%, -10%);
 }
@@ -166,8 +166,8 @@ li a:hover {
 .LatestSubHeader{
     font-size: 12px;
     position: absolute;
-    top: 60%;
-    left: 40%;
+    top: 55%;
+    left: 50%;
     transform: translate(-10%, -10%);
 }
 

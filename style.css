@@ -155,7 +155,6 @@ li a:hover {
 .PopLatestImage-container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
   }
 
 .image-header, .image-subheader {

@@ -147,12 +147,14 @@ li a:hover {
 .image-header {
   text-align: center;
   color: white;
+  font-size: 32;
 }
 
 .image-subheader {
   padding-top: 48px;
   text-align: center;
   color: lightgrey;
+  font-size: 24;
 }
 
 .image-header, .image-subheader {

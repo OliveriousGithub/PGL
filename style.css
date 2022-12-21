@@ -35,10 +35,6 @@ li a:hover {
     background-color: #FFA756;
 }
 
-.BackgroundImage {
-  width: 100%;
-}
-
 .grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

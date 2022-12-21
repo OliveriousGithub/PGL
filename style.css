@@ -149,6 +149,17 @@ li a:hover {
     text-align: center;
   }
 
+  .image-header {
+    text-align: center;
+    color: white;
+  }
+
+  .image-subheader {
+    margin-top: 10px;
+    text-align: center;
+    color: lightgrey;
+  }
+
 .about{
     color: white;
 }

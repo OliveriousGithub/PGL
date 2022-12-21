@@ -31,10 +31,13 @@ main {
 form {
   display: flex;
   flex-direction: column;
+  color: white;
 }
 
 label, input, textarea {
   margin: 10px 0;
+  background-color: #171717;
+  color: white;
 }
 
 footer {

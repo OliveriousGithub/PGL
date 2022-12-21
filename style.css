@@ -175,7 +175,9 @@ li a:hover {
     color: white;
 }
 
-.footer{
+footer {
     background-color: #171717;
     color: white;
-}
+    padding: 20px;
+    text-align: center;
+  }

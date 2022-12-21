@@ -129,6 +129,13 @@ li a:hover {
     transform: translate(-50%, -50%);
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
 .images-container {
   display: flex;
 }
@@ -149,6 +156,10 @@ li a:hover {
 
 .about{
     color: white;
+}
+
+.image-header, .image-subheader {
+  text-align: center;
 }
 
 footer {

@@ -137,10 +137,10 @@ li a:hover {
   }
   
 .PopLatestImage-container {
-    position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin: 10px;
   }
 
 .image-header, .image-subheader {
@@ -151,6 +151,10 @@ li a:hover {
     text-align: center;
   }
 
+  .PopLatestImage-container img {
+    width: 300px;
+  }
+  
   .image-header {
     text-align: center;
     color: white;

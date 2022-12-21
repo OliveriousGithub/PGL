@@ -172,6 +172,15 @@ footer {
     text-align: center;
 }
 
+.whoAboutSubHead{
+  color: white;
+  font-weight: bold;
+}
+
+.whoAboutText{
+  color: white;
+}
+
 .container {
   max-width: 1000px;
   position: relative;

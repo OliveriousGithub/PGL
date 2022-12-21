@@ -79,6 +79,22 @@ li a:hover {
     text-align: center;
 }
 
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+  background-color: rgb(226, 156, 98);;
+  text-align: center;
+}
+
+.grid2{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+  background-color: rgb(226, 156, 98);;
+  text-align: center;
+}
+
 .fortnite{
     display: grid;
     grid-template-columns: 1fr 1fr;

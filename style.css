@@ -153,8 +153,9 @@ li a:hover {
 }
   
 .PopLatestImage-container {
-    display: flex;
-    flex-direction: column;
+    position: relative;
+    width: 50%;
+    height: 50%;
   }
 
 .image-header, .image-subheader {
@@ -165,13 +166,18 @@ li a:hover {
   }
 
 .image-header {
-    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     color: white;
   }
 
 .image-subheader {
-    margin-top: 18px;
-    text-align: center;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     color: lightgrey;
   }
 

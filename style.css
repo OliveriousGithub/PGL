@@ -127,48 +127,17 @@ li a:hover {
     transform: translate(-50%, -50%);
 }
 
-.MostPopularContainer{
-    position: relative;
-    text-align: center;
-    color: white;
+.LatestPopContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
 }
-
-.MostPopularHeader{
-    font-size:10px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-10%, -10%);
-}
-
-.MostPopularSubHeader{
-    font-size: 6px;
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    transform: translate(-10%, -10%);
-}
-
-.LatestContainer{
-    position: relative;
-    text-align: center;
-    color: white;
-}
-
-.LatestHeader{
-    font-size:20px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-10%, -10%);
-}
-
-.LatestSubHeader{
-    font-size: 12px;
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    transform: translate(-10%, -10%);
+  
+.PopLatestImage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .about{
@@ -180,4 +149,4 @@ footer {
     color: white;
     padding: 20px;
     text-align: center;
-  }
+}

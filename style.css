@@ -70,21 +70,35 @@ li a:hover {
     background-color: #FFA756;
 }
 
-.grid{
+.bombRush{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     padding: 10px;
     text-align: center;
 }
 
-.grid2{
+.fortnite{
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 10px;
     text-align: center;
 }
 
-.grid3{
+.redDead{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    text-align: center;
+}
+
+.stray{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    text-align: center;
+}
+
+.spiderman{
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 10px;

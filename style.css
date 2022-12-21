@@ -166,10 +166,10 @@ li a:hover {
 }
 
 .FortniteHome:hover{
-  transform: scale(3);
+  transform: scale(1);
 }
 .LilGatorGameHome:hover{
-  transform: scale(3);
+  transform: scale(1);
 }
 
 footer {

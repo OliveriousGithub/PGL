@@ -82,7 +82,6 @@ li a:hover {
     grid-template-columns: 1fr 1fr;
     padding: 10px;
     text-align: center;
-    float: left;
 }
 
 .grid3{

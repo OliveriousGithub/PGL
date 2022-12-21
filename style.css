@@ -129,38 +129,23 @@ li a:hover {
     transform: translate(-50%, -50%);
 }
 
-.LatestPopContainer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
-  }
-  
-.PopLatestImage-container {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
+.images-container {
+  display: flex;
+}
 
-.image-header, .image-subheader {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-  }
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-  .image-header {
-    text-align: center;
-    color: white;
-  }
+.image-header {
+  color: white;
+}
 
-  .image-subheader {
-    margin-top: 18px;
-    text-align: center;
-    color: lightgrey;
-  }
+.image-subheader {
+  color: lightgrey;
+}
 
 .about{
     color: white;

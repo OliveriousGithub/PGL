@@ -170,3 +170,7 @@ li a:hover {
     left: 40%;
     transform: translate(-10%, -10%);
 }
+
+.about{
+    color: white;
+}

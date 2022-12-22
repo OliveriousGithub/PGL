@@ -37,6 +37,7 @@ form {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-top: 2%;
 }
 .form-input {
   width: 50%;

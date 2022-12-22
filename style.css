@@ -177,3 +177,11 @@ footer {
   color: lightgrey;
   text-align: center;
 }
+
+.FAQEnd{
+  margin-top: 5%;
+  text-align: center;
+  color:#FFA756;
+  font-size: 28px;
+  font: bolder;
+}

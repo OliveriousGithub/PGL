@@ -136,11 +136,7 @@ li a:hover {
   text-align: center;
 }
 
-.FortniteHome:hover{
-  transform:scale(1.01);
-  opacity:0.7
-}
-.LilGatorGameHome:hover{
+.image-container:hover{
   transform:scale(1.01);
   opacity:0.7
 }

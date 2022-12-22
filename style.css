@@ -72,41 +72,6 @@ li a:hover {
     background-color: #FFA756;
 }
 
-.bombRush{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    padding: 10px;
-    text-align: center;
-}
-
-.fortnite{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 10px;
-    text-align: center;
-}
-
-.redDead{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 10px;
-    text-align: center;
-}
-
-.stray{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 10px;
-    text-align: center;
-}
-
-.spiderman{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 10px;
-    text-align: center;
-}
-
 .HomeImageContainer{
     position: relative;
     text-align: center;

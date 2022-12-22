@@ -116,16 +116,16 @@ li a:hover {
 .image-header {
   text-align: center;
   color: white;
-  font-size: 42px;
+  font-size: 300%;
   font: bold;
-  width:800px;
+  width:75%;
 }
 
 .image-subheader {
-  padding-top: 56px;
+  padding-top: 8%;
   text-align: center;
   color: lightgrey;
-  font-size: 24px;
+  font-size: 150%;
 }
 
 .image-header, .image-subheader {

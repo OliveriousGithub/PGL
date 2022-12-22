@@ -176,10 +176,12 @@ footer {
 .whoAboutSubHead{
   color: white;
   font-weight: bold;
+  text-align: center;
 }
 
 .whoAboutText{
   color: white;
+  text-align: center;
 }
 
 .reviewText{

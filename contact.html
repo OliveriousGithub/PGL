@@ -43,19 +43,15 @@
     <h1>Contact Us</h1>
   </header>
 
-  <main>
-    <div class="contact-form">
-      <form>
-        <label for="name">Name:</label><br>
-        <input type="text" id="name" name="name"><br>
-        <label for="email">Email:</label><br>
-        <input type="email" id="email" name="email"><br>
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message" rows="5" cols="50"></textarea><br><br>
-        <input type="submit" value="Submit">
-      </form> 
-    </div>
-  </main>
+  <div class="form-container">
+    <form>
+      <input class="form-input" type="text" placeholder="Name" />
+      <input class="form-input" type="email" placeholder="Email" />
+      <input class="form-input" type="text" placeholder="Subject" />
+      <textarea class="form-input" placeholder="Message"></textarea>
+      <button class="form-button" type="submit">Send</button>
+    </form>
+  </div>
 
     <footer>
       <p>Copyright 2022, Peak Gaming Ltd.</p>
